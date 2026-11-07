@@ -1,0 +1,6 @@
+id_venta,fecha,id_cliente,producto,cantidad,precio_unitario,total
+1,2026-10-01,101,Laptop,1,750.00,750.00
+2,2026-10-02,102,Mouse,2,15.50,31.00
+3,2026-10-03,103,Teclado,1,25.00,25.00
+4,2026-10-05,101,Monitor,1,180.00,180.00
+5,2026-10-07,104,Audifonos,3,20.00,60.00
