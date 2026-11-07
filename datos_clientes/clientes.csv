@@ -1,0 +1,5 @@
+id_cliente,nombre,apellido,correo,ciudad,telefono
+101,Maria,Lopez,maria.lopez@email.com,Guayaquil,0991234567
+102,Carlos,Mendoza,carlos.mendoza@email.com,Quito,0987654321
+103,Ana,Torres,ana.torres@email.com,Cuenca,0976543210
+104,Luis,Vera,luis.vera@email.com,Manta,0965432109
